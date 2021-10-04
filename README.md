@@ -28,6 +28,16 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 ## Books  
 
 ## Awesome-list  
+- [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)  
+- [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam)  
+- [Awesome LIDAR](https://github.com/szenergy/awesome-lidar)  
+- [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets)  
+- [awesome-photogrammetry](https://github.com/awesome-photogrammetry/awesome-photogrammetry)  
+- [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#simultaneous-localization-and-mapping)  
+- [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)  
+- [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) : Modern C++ is important language to learn SLAM system.  
+
+
 
 ## Recommended github repository  
 
