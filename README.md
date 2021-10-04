@@ -8,7 +8,7 @@ As a beginner learning SLAM, I created this repository to organize resources tha
 
 I made this repository based on the content from the [SLAM KR community]() and the activities of [my github followers](https://github.com/Taeyoung96?tab=following)!  
 
-If you are Korean, you will prefer to look [Korean.md](). 
+If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner/blob/master/korean.md).  
 
 ## Contents  
 
