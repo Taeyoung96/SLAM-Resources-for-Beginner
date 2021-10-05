@@ -6,11 +6,18 @@ SLAM is a field with high entry barriers for beginners.
 
 As a beginner learning SLAM, I created this repository to organize resources that can be used as a reference when learning SLAM for the first time.  
 
-I made this repository based on the content from the [SLAM KR community]() and the activities of [my github followers](https://github.com/Taeyoung96?tab=following)!  
+I made this repository based on the content from the [SLAM KR community](https://www.facebook.com/groups/slamkr/) and the activities of [my github followers](https://github.com/Taeyoung96?tab=following)!  
 
 If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner/blob/master/korean.md).  
 
 ## Contents  
+
+- [Mathematics](#Mathematics)  
+- [Roadmap](#Roadmap)  
+- [Review Paper](#Review-Paper)  
+- [Lecture](#Lecture)  
+- [Awesome-list](#Awesome-list)  
+- [Recommended github repository](#Recommended-github-repository)  
 
 ## Mathematics  
 
