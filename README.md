@@ -68,6 +68,9 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 - [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)  
 > The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2).  
 
+- [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)  
+> Kalman Filter book using Jupyter Notebook.  
+
 
 
 
