@@ -21,14 +21,19 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Mathematics  
 
+- Some Math Basics often used in Photogrammetry (Cyrill Stachniss, 2021) [[Youtube](https://youtu.be/Q042jupFMbU)]    
+> An brief, informal collection of math basics and tools that are often used in Photogrammetry (SVD, Least Squares with Gauss Newton)  
+
+- 
+
+
 ## Roadmap
 
 - [changh95/visual-slam-roadmap](https://github.com/changh95/visual-slam-roadmap)  
-> Roadmap to becoming a Visual-SLAM developer in 2021  
-
-
+> Roadmap to becoming a Visual-SLAM developer  
 
 ## Review Paper  
+
 
 ## Lecture  
 
@@ -51,11 +56,19 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 - [YiChenCityU/Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research)  
 > This repository tracks advancement of SLAM system. (2021 ver)  
 
+- [luigifreda/pyslam](https://github.com/luigifreda/pyslam)  
+> pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.  
+
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
 > Python sample codes for robotics algorithms.  
 
 - [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial)  
 > An Invitation to 3D Vision: A Tutorial for Everyone  
+
+- [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)  
+> The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2).  
+
+
 
 
 
