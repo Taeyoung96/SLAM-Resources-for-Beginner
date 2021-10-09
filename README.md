@@ -37,7 +37,9 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Lecture  
 
-## Books  
+## Books 
+
+- [Probabilistic Robotics](https://mitpress.mit.edu/books/probabilistic-robotics) By Sebastian Thrun, Wolfram Burgard and Dieter Fox - [pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
 
 ## Awesome-list  
 - [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)  
