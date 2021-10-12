@@ -72,7 +72,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 > pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.  
 
 - [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM)  
-> This codebase proposes modular light python and pytorch implementations of several LiDAR Odometry methods
+> This codebase proposes modular light python and pytorch implementations of several LiDAR Odometry methods.
 
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
 > Python sample codes for robotics algorithms.  
