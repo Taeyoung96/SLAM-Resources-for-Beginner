@@ -34,12 +34,22 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Review Paper  
 
+### SLAM  
+
+- **"SLAM tutorial : Part 1"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[Link](https://ieeexplore.ieee.org/document/1638022)]  
+- **"SLAM tutorial : Part 2"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[Link](https://ieeexplore.ieee.org/document/1678144)], [[pdf](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial2.pdf)]  
+- **"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age"** By C. Cadena et al. (IROS 2016) - [[Link](https://ieeexplore.ieee.org/document/7747236)], [[pdf](http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf)]  
+
+### Visual Odometry  
+
+- **"Visual Odometry Part I: The First 30 Years and Fundamentals"** By Davide Scaramuzza and Friedrich Fraundorfer - [[pdf](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf)]  
+- **"Visual Odometry Part II: Matching, Robustness, Optimization, and Applications"** By Davide Scaramuzza and Friedrich Fraundorfer - [[pdf](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf)]  
 
 ## Lecture  
 
 ## Books 
 
-- [Probabilistic Robotics](https://mitpress.mit.edu/books/probabilistic-robotics) By Sebastian Thrun, Wolfram Burgard and Dieter Fox - [pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
+- [Probabilistic Robotics](https://mitpress.mit.edu/books/probabilistic-robotics) By Sebastian Thrun, Wolfram Burgard and Dieter Fox - [[pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)]
 
 ## Awesome-list  
 - [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)  
