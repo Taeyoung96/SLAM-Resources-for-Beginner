@@ -24,8 +24,8 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 - Some Math Basics often used in Photogrammetry (Cyrill Stachniss, 2021) [[Youtube](https://youtu.be/Q042jupFMbU)]    
 > An brief, informal collection of math basics and tools that are often used in Photogrammetry (SVD, Least Squares with Gauss Newton)  
 
-- 
-
+- Linear Algebra Primer - Stanford Vision Lab [[pdf](http://vision.stanford.edu/teaching/cs131_fall1617/lectures/lecture2_linalg_review_cs131_2016.pdf)]  
+> Lecture slide for Linear Algebra Review  
 
 ## Roadmap
 
@@ -36,9 +36,9 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ### SLAM  
 
-- **"SLAM tutorial : Part 1"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[Link](https://ieeexplore.ieee.org/document/1638022)]  
-- **"SLAM tutorial : Part 2"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[Link](https://ieeexplore.ieee.org/document/1678144)], [[pdf](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial2.pdf)]  
-- **"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age"** By C. Cadena et al. (IROS 2016) - [[Link](https://ieeexplore.ieee.org/document/7747236)], [[pdf](http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf)]  
+- **"SLAM tutorial : Part 1"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[pdf](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial1.pdf)]
+- **"SLAM tutorial : Part 2"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[pdf](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial2.pdf)]  
+- **"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age"** By C. Cadena et al. (IROS 2016) - [[pdf](http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf)]  
 
 ### Visual Odometry  
 
@@ -46,6 +46,10 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 - **"Visual Odometry Part II: Matching, Robustness, Optimization, and Applications"** By Davide Scaramuzza and Friedrich Fraundorfer - [[pdf](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf)]  
 
 ## Lecture  
+
+- Mobile Robotics course for the Winter 2020 Semester at the University of Michigan - [[Webpage](http://robots.engin.umich.edu/mobilerobotics/?fbclid=IwAR1NcjOxtgv6ohDPxFkAXIMDn91933IgGSXvav0HpO8lBWwCP0agFkoUS5A#lectures)]  
+
+- Mobile Sensing And Robotics 2 By Stachniss (2021) - [[Webpage](https://www.ipb.uni-bonn.de/msr2-2021/)]  
 
 ## Books 
 
@@ -65,26 +69,41 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Recommended github repository  
 
+### SLAM Trend
 - [YiChenCityU/Recent_SLAM_Research](https://github.com/YiChenCityU/Recent_SLAM_Research)  
 > This repository tracks advancement of SLAM system. (2021 ver)  
 
-- [luigifreda/pyslam](https://github.com/luigifreda/pyslam)  
-> pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.  
-
-- [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM)  
-> This codebase proposes modular light python and pytorch implementations of several LiDAR Odometry methods.
-
-- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
-> Python sample codes for robotics algorithms.  
-
-- [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial)  
-> An Invitation to 3D Vision: A Tutorial for Everyone  
+### Visual SLAM  
 
 - [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)  
 > The English version of 14 lectures on visual SLAM. You could see source code in [Slambook2](https://github.com/gaoxiang12/slambook2).  
 
+- [luigifreda/pyslam](https://github.com/luigifreda/pyslam)  
+> pySLAM contains a monocular Visual Odometry (VO) pipeline in Python.  
+
+- [avisingh599/mono-vo](https://github.com/avisingh599/mono-vo)  
+> An OpenCV based implementation of Monocular Visual Odometry  
+
+### Lidar SLAM
+- [Kitware/pyLiDAR-SLAM](https://github.com/Kitware/pyLiDAR-SLAM)  
+> This codebase proposes modular light python and pytorch implementations of several LiDAR Odometry methods.
+
+- [gisbi-kim/PyICP-SLAM](https://github.com/gisbi-kim/PyICP-SLAM)  
+> Full-python LiDAR SLAM using ICP and Scan Context  
+
+### Robotics  
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)  
+> Python sample codes for robotics algorithms.  
+
 - [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)  
 > Kalman Filter book using Jupyter Notebook.  
+
+### 3D Vision  
+- [sunglok/3dv_tutorial](https://github.com/sunglok/3dv_tutorial)  
+> An Invitation to 3D Vision: A Tutorial for Everyone  
+
+
+
 
 
 
