@@ -39,12 +39,13 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 - **"SLAM tutorial : Part 1"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[pdf](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial1.pdf)]
 - **"SLAM tutorial : Part 2"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[pdf](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial2.pdf)]  
 - **"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age"** By C. Cadena et al. (IROS 2016) - [[pdf](http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf)]  
-- **"A Comparison of Modern General-Purpose Visual SLAM Approaches"** By Alexey Merzlyakov et al. (IROS 2021) - [[pdf](https://arxiv.org/abs/2107.07589)]  
 
-### Visual Odometry  
+
+### Visual SLAM & Visual Odometry  
 
 - **"Visual Odometry Part I: The First 30 Years and Fundamentals"** By Davide Scaramuzza and Friedrich Fraundorfer - [[pdf](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf)]  
 - **"Visual Odometry Part II: Matching, Robustness, Optimization, and Applications"** By Davide Scaramuzza and Friedrich Fraundorfer - [[pdf](http://rpg.ifi.uzh.ch/docs/VO_Part_II_Scaramuzza.pdf)]  
+- **"A Comparison of Modern General-Purpose Visual SLAM Approaches"** By Alexey Merzlyakov et al. (IROS 2021) - [[pdf](https://arxiv.org/abs/2107.07589)]  
 
 ### Visual-Inertial SLAM  
 
