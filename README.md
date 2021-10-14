@@ -14,7 +14,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 - [Mathematics](#Mathematics)  
 - [Roadmap](#Roadmap)  
-- [Review Paper](#Review-Paper-&-Survey-Paper)  
+- [Review Paper & Survey Paper](#review-paper--survey-paper)  
 - [Lecture](#Lecture)  
 - [Awesome-list](#Awesome-list)  
 - [Recommended github repository](#Recommended-github-repository)  
