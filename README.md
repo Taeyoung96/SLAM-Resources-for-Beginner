@@ -52,13 +52,14 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 ## Lecture  
 
-- Mobile Robotics course for the Winter 2020 Semester at the University of Michigan - [[Webpage](http://robots.engin.umich.edu/mobilerobotics/?fbclid=IwAR1NcjOxtgv6ohDPxFkAXIMDn91933IgGSXvav0HpO8lBWwCP0agFkoUS5A#lectures)]  
+- **Mobile Robotics course** for the Winter 2020 Semester at the University of Michigan - [[Webpage](http://robots.engin.umich.edu/mobilerobotics/?fbclid=IwAR1NcjOxtgv6ohDPxFkAXIMDn91933IgGSXvav0HpO8lBWwCP0agFkoUS5A#lectures)]  
 
-- Mobile Sensing And Robotics 2 By Stachniss (2021) - [[Webpage](https://www.ipb.uni-bonn.de/msr2-2021/)]  
+- **Mobile Sensing And Robotics 2** By Stachniss (2021) - [[Webpage](https://www.ipb.uni-bonn.de/msr2-2021/)]  
 
 ## Books 
 
-- [Probabilistic Robotics](https://mitpress.mit.edu/books/probabilistic-robotics) By Sebastian Thrun, Wolfram Burgard and Dieter Fox - [[pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)]
+- **Probabilistic Robotics** By Sebastian Thrun, Wolfram Burgard and Dieter Fox - [[Webpage](https://mitpress.mit.edu/books/probabilistic-robotics)], [[pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)]  
+- **Computer Vision: Algorithms and Applications, 2nd ed.** By Richard Szeliski - [[Webpage](http://szeliski.org/Book/)]
 
 ## Awesome-list  
 - [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)  
