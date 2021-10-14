@@ -53,7 +53,6 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 ## Lecture  
 
 - **Mobile Robotics course** for the Winter 2020 Semester at the University of Michigan - [[Webpage](http://robots.engin.umich.edu/mobilerobotics/?fbclid=IwAR1NcjOxtgv6ohDPxFkAXIMDn91933IgGSXvav0HpO8lBWwCP0agFkoUS5A#lectures)]  
-
 - **Mobile Sensing And Robotics 2** By Stachniss (2021) - [[Webpage](https://www.ipb.uni-bonn.de/msr2-2021/)]  
 
 ## Books 
