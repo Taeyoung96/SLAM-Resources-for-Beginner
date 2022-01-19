@@ -12,4 +12,7 @@
 - 입문 Visual SLAM - [[Link](https://adioshun.gitbooks.io/deep-slam/content/SLAM-kr-Tutorial/?fbclid=IwAR2XUYyEctWDnxFuG9PRR6sgBfPhZgSdq8NbBuAPvtnGWQDnnU-fYBf4yUg)] 
 > gaoxiang12/slambook-en를 한국어로 번역한 구글 독스를 모아둔 페이지  
 
+- Ian Choi님 블로그 - [[Link](https://goodgodgd.github.io/ian-flow/)]  
+> Visual odometry와 관련한 포스팅과 docker gui와 관련된 포스팅이 굉장히 유용하다  
 
+- 장형기님 블로그 - [[Link](http://www.cv-learn.com/)]  
