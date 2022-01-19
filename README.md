@@ -51,10 +51,17 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 - **"Visual-Inertial Navigation: A Concise Review"** By Guoquan Huang (ICRA 2019) - [[pdf](https://arxiv.org/abs/1906.02650)]  
 
+### SLAM with Deep-learning  
+
+- **"A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence"** By Changhao Chen et al. - [[pdf](https://arxiv.org/abs/2006.12567)]  
+
 ## Lecture  
 
 - **Mobile Robotics course** for the Winter 2020 Semester at the University of Michigan - [[Webpage](http://robots.engin.umich.edu/mobilerobotics/?fbclid=IwAR1NcjOxtgv6ohDPxFkAXIMDn91933IgGSXvav0HpO8lBWwCP0agFkoUS5A#lectures)]  
 - **Mobile Sensing And Robotics 2** By Stachniss (2021) - [[Webpage](https://www.ipb.uni-bonn.de/msr2-2021/)]  
+- **AirLab Summer School 2020** in Carnegie Mellon university - [[Webpage](https://theairlab.org/summer2020/)]  
+- **Tartan SLAM Series** in AirLab - [[Webpage](https://theairlab.org/tartanslamseries/)]  
+- **Tartan SLAM Series Fall Edition** in AirLab - [[Webpage](https://theairlab.org/tartanslamseries2/)]  
 
 ## Books 
 
