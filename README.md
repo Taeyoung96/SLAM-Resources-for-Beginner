@@ -16,6 +16,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 - [Roadmap](#Roadmap)  
 - [Review Paper & Survey Paper](#review-paper--survey-paper)  
 - [Lecture](#Lecture)  
+- [Books](#Books)  
 - [Awesome-list](#Awesome-list)  
 - [Recommended github repository](#Recommended-github-repository)  
 
@@ -66,7 +67,8 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 ## Books 
 
 - **Probabilistic Robotics** By Sebastian Thrun, Wolfram Burgard and Dieter Fox - [[Webpage](https://mitpress.mit.edu/books/probabilistic-robotics)], [[pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)]  
-- **Computer Vision: Algorithms and Applications, 2nd ed.** By Richard Szeliski - [[Webpage](http://szeliski.org/Book/)]
+- **Computer Vision: Algorithms and Applications, 2nd ed.** By Richard Szeliski - [[Webpage](http://szeliski.org/Book/)]  
+- **STATE ESTIMATION FOR ROBOTICS** By Timothy D. Barfoot - [[Pdf](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)]  
 
 ## Awesome-list  
 - [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)  
