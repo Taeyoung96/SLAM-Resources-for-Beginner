@@ -51,6 +51,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 ### Visual-Inertial SLAM  
 
 - **"Visual-Inertial Navigation: A Concise Review"** By Guoquan Huang (ICRA 2019) - [[pdf](https://arxiv.org/abs/1906.02650)]  
+- **"Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle"** By Jinwoo Jeon et al. (ArXiv 2021) - [[pdf](https://arxiv.org/abs/2103.01655)]  
 
 ### SLAM with Deep-learning  
 
