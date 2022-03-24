@@ -41,6 +41,7 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 - **"SLAM tutorial : Part 2"** By H. Durrant-Whyte and T. Bailey (IEEE Robotics & Automation Magazine 2006) - [[pdf](https://www.doc.ic.ac.uk/~ajd/Robotics/RoboticsResources/SLAMTutorial2.pdf)]  
 - **"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age"** By C. Cadena et al. (IROS 2016) - [[pdf](http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf)]  
 - **"Simultaneous Localization and Mapping: A Survey of Current Trends in Autonomous Driving"** By G. Bresson, Z. Alsayed et al. (IEEE Transactions on Intelligent Vehicles 2017) - [[pdf](https://hal.archives-ouvertes.fr/hal-01615897/file/2017-simultaneous_localization_and_mapping_a_survey_of_current_trends_in_autonomous_driving.pdf)]  
+- **"Comparison of modern open-source visual SLAM approaches"** By Dinar Sharafutdinov et al. (ArXiv 2021) - [[pdf](https://arxiv.org/pdf/2108.01654.pdf)]
 
 ### Visual SLAM & Visual Odometry  
 
