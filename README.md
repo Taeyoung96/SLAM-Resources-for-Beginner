@@ -58,6 +58,10 @@ If you are Korean, you will prefer to look [korean.md](https://github.com/Taeyou
 
 - **"A Survey on Deep Learning for Localization and Mapping: Towards the Age of Spatial Machine Intelligence"** By Changhao Chen et al. - [[pdf](https://arxiv.org/abs/2006.12567)]  
 
+### LiDAR global localization  
+
+- **"A Survey on Global LiDAR Localization: Challenges, Advances and Open Problems"** By Huan Yin et al. - [[pdf](https://arxiv.org/abs/2302.07433)]
+
 ## Lecture  
 
 - **Mobile Robotics course** for the Winter 2020 Semester at the University of Michigan - [[Webpage](http://robots.engin.umich.edu/mobilerobotics/?fbclid=IwAR1NcjOxtgv6ohDPxFkAXIMDn91933IgGSXvav0HpO8lBWwCP0agFkoUS5A#lectures)]  
